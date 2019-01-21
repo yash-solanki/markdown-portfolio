@@ -1,0 +1,3 @@
+- Goa
+- Mumbai
+- Jammu-kashmir
